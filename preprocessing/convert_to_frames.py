@@ -39,6 +39,7 @@ def read_write_with_av(file_path):
 
 
 def processing():
+
     dirs = os.listdir(data_folder)
     for dir in dirs:
         for file in os.listdir(data_folder / dir):

@@ -1,2 +1,6 @@
 av
 image
+pandas
+numpy
+matplotlib
+sklearn
